@@ -1,0 +1,6 @@
+discord.py==2.3.2
+openai==1.14.2
+python-dotenv==1.0.1
+requests==2.31.0
+gTTS==2.5.1
+fpdf==1.7.2
